@@ -6,6 +6,12 @@ namespace leetcode
 {
     class P1_TwoSum
     {
+        /// <summary>
+        /// my solution
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="target"></param>
+        /// <returns></returns>
         public int[] TwoSum(int[] nums, int target)
         {
             for (int i = 0; i < nums.Length; i++)
